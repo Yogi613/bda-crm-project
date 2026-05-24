@@ -1,0 +1,20 @@
+# BDA Team CRM Module - Manufacturing Company
+
+## 📌 Project Overview
+This project is a MERN-stack based workflow dashboard and CRM module built for the Business Development Associate (BDA) team of a manufacturing company. It helps manage team operations, track leads, and streamline productivity.
+
+## 🚀 Tech Stack Used
+* **Frontend:** React.js, Vite
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+
+## 📂 Repository Structure
+All project files and source code are located inside the `bda-crm-project zip.zip` file attached to this repository. Please download and extract the `.zip` file to view the `frontend` and `backend` directories.
+
+## ⚙️ Local Setup Instructions
+
+### 1. Backend Setup
+1. Extract the downloaded zip file and navigate to the `backend` folder in your terminal.
+2. Install the required dependencies:
+   ```bash
+   npm install
